@@ -1,4 +1,4 @@
-# WatchDog-Client-Minecraft-
+# WatchDog-Client-Minecraft
 A minecraft client
 
 # 🐕 WatchDog Launcher
